@@ -118,6 +118,6 @@ for page in pages[:10]:
     print()
 
 print("=" * 70)
-print("Results saved to: clean-books-results.csv")
+print("Results saved to: books-results.csv")
 print("=" * 70)
  
