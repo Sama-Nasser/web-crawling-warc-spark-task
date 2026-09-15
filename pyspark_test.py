@@ -24,7 +24,7 @@ spark = SparkSession.builder \
 # --------------------------------------------------
 
 df = spark.read.csv(
-    "clean-books-results.csv",
+    "books-results.csv",
     header=True,
     inferSchema=True
 )
